@@ -1,0 +1,21 @@
+body{
+  background-color: blue;
+}
+h1 {
+    color: red;
+
+}
+h2{
+  color: green;
+  background-color: orange;
+  border: 5px dashed red;
+}
+#awesome{
+  height: 10%;
+  width: 20%;
+  /*border: solid black 2px;*/
+  border-radius: 19%; 
+}
+img{
+  display: block;
+}
